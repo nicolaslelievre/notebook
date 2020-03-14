@@ -1,3 +1,6 @@
-title: "NoteBook"
+title: Notebook
+description: A notebook
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
+
+exclude: ["LICENSE.txt", "README.md"]
